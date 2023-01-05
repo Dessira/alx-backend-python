@@ -3,5 +3,7 @@
 
 
 def floor(n: float) -> int:
-    """floor takes a float n and returns floor of the float"""
-    return round(n)
+    """floor takes a float n and
+    returns floor of the float
+    """
+    return int(n)
